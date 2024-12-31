@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/andreglatz/btree/internal/graph"
-	"github.com/andreglatz/btree/internal/queue"
+	"github.com/andreglatz/tree/internal/graph"
+	"github.com/andreglatz/tree/internal/queue"
 )
 
 func main() {
